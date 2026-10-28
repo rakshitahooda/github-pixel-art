@@ -1,0 +1,17 @@
+{
+  "name": "github-pixel-art",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "moment": "^2.31.0",
+    "simple-git": "^4.0.2"
+  }
+}
